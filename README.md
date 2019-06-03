@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/lialsoftlab/trlogic_test.svg?branch=master)](https://travis-ci.org/lialsoftlab/trlogic_test)
+[![Coverage Status](https://coveralls.io/repos/github/lialsoftlab/trlogic_test/badge.svg?branch=master)](https://coveralls.io/github/lialsoftlab/trlogic_test?branch=master)
 
 # trlogic_test
 
