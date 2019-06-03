@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+  microservice:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - /var/lib/trlogic_test
+    environment:
+      - RUST_LOG=trlogic_test=info
